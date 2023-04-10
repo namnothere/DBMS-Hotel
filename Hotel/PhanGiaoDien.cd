@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hotel.AssignmentForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oRhIRACAECAHABggiACAAQRCgIAnBgQCBgAAEYcAAAQ=</HashCode>
+      <FileName>EMPLOYEE\AssignmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.EMPLOYEE.CheckInForm" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAIACAAABAAAACAAAACACggAAAAQAAAQAAAAAA=</HashCode>
+      <FileName>EMPLOYEE\CheckInForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.ShowAssignmentFrom" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAACAACAAAYEAgICAAAACAAAhAEACAAAAAQAAAQw=</HashCode>
+      <FileName>EMPLOYEE\ShowAssignmentFrom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.SuaThongTinNhanVien" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EGAAIAABIHAAQlAgAACAQAACQwABAAKAOAAAIAAAgCE=</HashCode>
+      <FileName>EMPLOYEE\SuaThongTinNhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.ThemNhanVien" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EGAAAAABICAAQlAhAACAQACCQQEBAAKAOAAAIAEAgAE=</HashCode>
+      <FileName>EMPLOYEE\ThemNhanViencs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.LCNForm" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgwBIBgBATQMA7AAAIyEAYQCgiU6YAJDIQApRAAACAQ=</HashCode>
+      <FileName>LaoCong\LCNForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.LTForm" Collapsed="true">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgwBIBgBATQMA5gAAIyMAYSCgiU6YBJDIQAtRAIACAQ=</HashCode>
+      <FileName>LeTan\LTForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.CustomerForm" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABBQKIARihCCBAAIASAAIQaABBEAQAgBABqBQFAAQY=</HashCode>
+      <FileName>MainF\CustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.DoiMatKhau" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAABAAADAAABJBAACAAgACAAEAAASACEAAAQAAAEA=</HashCode>
+      <FileName>MainF\DoiMatKhau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.DoiTenDangNhap" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAFBAADAAABBBAACAAAACAAEAAASACAAAAQAAAAA=</HashCode>
+      <FileName>MainF\DoiTenDangNhap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.EventForm" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAACAACAAoBEAgACAgAACAAAlACAAAAQAAQAAAAA=</HashCode>
+      <FileName>MainF\EventForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.InfoCustomerForm" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQIAAACBiABgAAgCgABICAABEAAAAAABgAAAAAAA=</HashCode>
+      <FileName>MainF\InfoCustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.LoginForm" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAUBAIAKQMAAGAyAGAQEACAAAESAADAIAIAADQAAA=</HashCode>
+      <FileName>MainF\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.ManageBillForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwBgAAnQCAQCpAFiACAABQSAAAA0QAAASBIAQEAA0Y=</HashCode>
+      <FileName>MainF\ManageBillForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.ManageEmployeeForm" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAIARqKAAAIAAACAgAAGAEcFAAAgAAAAAYAAAkA=</HashCode>
+      <FileName>MainF\ManageEmployeeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.Setting" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIABAADAIABABCACAQAICAAEAAAAAAEAAAgAABAE=</HashCode>
+      <FileName>MainF\Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.StatisticForm" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0ayh2hGzhDINBAMA9kaYzyY2MUg1AXUBIHiBRxjCxvA=</HashCode>
+      <FileName>MainF\StatisticForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.QLForm" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiQBIBiBASQMA9gIAIiNDYSCgiUaQIJCIygtRAEACAQ=</HashCode>
+      <FileName>QuanLy\QLForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.AddRoom" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAABAIACAAAEAAAACAAACSAQAAAACAEAAAAAEAAQA=</HashCode>
+      <FileName>RoomForm\AddRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.BookRoomForm" Collapsed="true">
+    <Position X="3.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAkAQKCYQDBAAxEAgACkAIaSASBAAFGiAiBIAQAIAEo=</HashCode>
+      <FileName>RoomForm\BookRoomForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.CheckOutHotelForm" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBAAQiSyBAABUAhBCAQESTAABEAjAAAAhIAAQgAgA=</HashCode>
+      <FileName>RoomForm\CheckOutHotelForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.EditRoom" Collapsed="true">
+    <Position X="2" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAAIACAAAEAAAACAAACSAQAAAACAEAAAAAEAAwA=</HashCode>
+      <FileName>RoomForm\EditRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.LoadRoom" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAgCAUADAACAEAAAGAAAQCAAGAAACAEAgIAQAIAgA=</HashCode>
+      <FileName>RoomForm\LoadRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.AddService" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAIhAAKQAABEAAACIAEQSAEAAgACAAAgAAAhQAEY=</HashCode>
+      <FileName>SERVICE\AddService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.EditService" Collapsed="true">
+    <Position X="2" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIhAAKQAABUAACCIAEQSAEAAgACAAAgIAIhQAEY=</HashCode>
+      <FileName>SERVICE\EditService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.ImportServiceForm" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgASAAAJAAAACAIAACCAIgAAAgAAgAAAAQAAA=</HashCode>
+      <FileName>SERVICE\ImportServiceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.ServiceForm" Collapsed="true">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABoMCiAmAUChBQDACAIAQSAAIFgIIgAQiIBIQMAgI=</HashCode>
+      <FileName>SERVICE\ServiceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel.ThanhToanDienNuoc" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAASAAAIAAAACAIAACAAAgAQAAAAgAAAAQAAA=</HashCode>
+      <FileName>SERVICE\ThanhToanDienNuoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

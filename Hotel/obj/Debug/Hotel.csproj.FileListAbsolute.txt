@@ -1,0 +1,384 @@
+D:\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+D:\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.FormTest.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.KhachHangForm.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.LCForm.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.UC_PicLabel.resources
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Hotel\Hotel\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\Hotel\Hotel\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Hotel\Hotel\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Hotel\Hotel\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Hotel\Hotel\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Hotel\Hotel\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+D:\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Google Drive\Hotel\Hotel\bin\Debug\itextsharp.xml
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\itextsharp.dll
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\vancu\Google Drive\Hotel\Hotel\bin\Debug\itextsharp.xml
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EMPLOYEE.CheckInForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EMPLOYEE.CheckInForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+C:\Users\Administrator\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+C:\Users\vancu\Google Drive\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\itextsharp.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\bin\Debug\itextsharp.xml
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.EMPLOYEE.CheckInForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\itextsharp.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\bin\Debug\itextsharp.xml
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.EMPLOYEE.CheckInForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\Học hành như cá kho tiêu\Windows Programming - Lập trình Windows\Đồ án khách sạn\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.dll
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.xml
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EMPLOYEE.CheckInForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\Học hành như cá kho tiêu\DoAnCSDL\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.dll
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.xml
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\HT\hk5\CNPM\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.pdb
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe.config
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.pdb
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.dll
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.xml
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.exe
+E:\Learning\Git\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.dll
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\bin\Debug\itextsharp.xml
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.SuaThongTinNhanVien.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThemNhanVien.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LCNForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiMatKhau.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.DoiTenDangNhap.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Setting.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageEmployeeForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.RegisterForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ReportForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddRoom.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditRoom.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AddService.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.AssignmentForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CheckOutHotelForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EventForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.EditService.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ImportServiceForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.InfoCustomerForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.BookRoomForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.CustomerForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoadRoom.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LoginForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.LTForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ManageBillForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ServiceForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.QLForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ShowAssignmentFrom.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.StatisticForm.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.ThanhToanDienNuoc.resources
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\MTBH\Source\Repos\CongNghePhanMemFinal\Hotel\Hotel\obj\Debug\Hotel.pdb
