@@ -180,15 +180,30 @@ namespace Hotel
                 " bill right join room on bill.room=room.room group by room.room";
             Mydb.openConnection();
             DataTable data = new DataTable();
+            //try
+            //{
+            //    SqlCommand command = new SqlCommand(query, Mydb.getConnection);
+            //    SqlDataAdapter adapter = new SqlDataAdapter();
+            //    adapter.SelectCommand = command;
+            //    adapter.Fill(data);
+            //    return data;
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show(ex.Message);
+            //    Mydb.closeConnection();
+            //    return data;
+            //}
             try
             {
-                SqlCommand command = new SqlCommand(query, Mydb.getConnection);
-                SqlDataAdapter adapter = new SqlDataAdapter();
-                adapter.SelectCommand = command;
+                SqlCommand cmd = new SqlCommand("revenue_by_room", Mydb.getConnection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Clear();
+
+                SqlDataAdapter adapter = new SqlDataAdapter(cmd);
                 adapter.Fill(data);
                 return data;
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
                 Mydb.closeConnection();
