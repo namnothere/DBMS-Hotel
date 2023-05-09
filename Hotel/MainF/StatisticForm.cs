@@ -66,49 +66,13 @@ namespace Hotel
 
             chartRevenueDate.Series["Doanh thu"].XValueMember = "date";
             chartRevenueDate.Series["Doanh thu"].YValueMembers = "revenue";
+          
+            roomMax = StatisticSQL.highestRevenueRoom();
+            roomMin = StatisticSQL.lowestRevenueRoom();
 
-            lbRoomMax.Text = "";
-            lbRoomMin.Text = "";
-            lbMonthMin.Text = "";
-            lbMonthMax.Text = "";
-            if (dt.Rows.Count > 0)
-            {
-                float max = 0, min = float.Parse(dt.Rows[0]["revenue"].ToString());
-                roomMin = dt.Rows[0]["room"].ToString();
-                foreach (DataRow item in dt.Rows)
-                {
-                    if (max < float.Parse(item["revenue"].ToString()))
-                    {
-                        roomMax = item["room"].ToString();
-                        max = float.Parse(item["revenue"].ToString());
-                    }
-                    if (min > float.Parse(item["revenue"].ToString()))
-                    {
-                        roomMin = item["room"].ToString();
-                        min = float.Parse(item["revenue"].ToString());
-                    }
-                }
+            MonthMax = StatisticSQL.highestRevenueMonth();
+            MonthMin = StatisticSQL.lowestRevenueMonth();
 
-            }
-
-            if (dt2.Rows.Count > 0)
-            {
-                float max = 0, min = float.Parse(dt2.Rows[0]["revenue"].ToString());
-                MonthMin = dt2.Rows[0]["date"].ToString();
-                foreach (DataRow item in dt2.Rows)
-                {
-                    if (max < float.Parse(item["revenue"].ToString()))
-                    {
-                        MonthMax = item["date"].ToString();
-                        max = float.Parse(item["revenue"].ToString());
-                    }
-                    if (min > float.Parse(item["revenue"].ToString()))
-                    {
-                        MonthMin = item["date"].ToString();
-                        min = float.Parse(item["revenue"].ToString());
-                    }
-                }
-            }
             lbMonthMax.Text = "Tháng có doanh thu cao nhất:" + MonthMax;
             lbMonthMin.Text = "Tháng có doanh thu thấp nhất:" + MonthMin;
             lbRoomMax.Text = "Phòng có doanh thu cao nhất:" + roomMax;
