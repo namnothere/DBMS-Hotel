@@ -176,24 +176,8 @@ namespace Hotel
 
         public DataTable GetAllRevenueByRoom()
         {
-            string query = "select room.room,ROUND(CAST(sum(case when pay is null then 0 else pay end) as float)/1000000,1) as revenue from" +
-                " bill right join room on bill.room=room.room group by room.room";
             Mydb.openConnection();
             DataTable data = new DataTable();
-            //try
-            //{
-            //    SqlCommand command = new SqlCommand(query, Mydb.getConnection);
-            //    SqlDataAdapter adapter = new SqlDataAdapter();
-            //    adapter.SelectCommand = command;
-            //    adapter.Fill(data);
-            //    return data;
-            //}
-            //catch (Exception ex)
-            //{
-            //    MessageBox.Show(ex.Message);
-            //    Mydb.closeConnection();
-            //    return data;
-            //}
             try
             {
                 SqlCommand cmd = new SqlCommand("revenue_by_room", Mydb.getConnection);
@@ -213,15 +197,16 @@ namespace Hotel
 
         public DataTable GetAllRevenueByDate()
         {
-            string query = "select str(MONTH(checkin),2,0)+'/'+str(YEAR(checkin),4,0) as date,ROUND(CAST(sum(case when pay is null then 0 else pay end) as float)/1000000,1) as revenue from" +
-                " bill inner join room on bill.room=room.room group by YEAR(checkin), MONTH(checkin)";
+            
             Mydb.openConnection();
             DataTable data = new DataTable();
             try
             {
-                SqlCommand command = new SqlCommand(query, Mydb.getConnection);
-                SqlDataAdapter adapter = new SqlDataAdapter();
-                adapter.SelectCommand = command;
+                SqlCommand cmd = new SqlCommand("revenue_by_date", Mydb.getConnection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.Clear();
+
+                SqlDataAdapter adapter = new SqlDataAdapter(cmd);
                 adapter.Fill(data);
                 return data;
             }
@@ -235,17 +220,16 @@ namespace Hotel
 
         public DataTable GetAllRevenueByRoom(DateTime from, DateTime to)
         {
-            string query = "select room.room,ROUND(CAST(sum(case when pay is null then 0 else pay end) as float)/1000000,1) as revenue " +
-                " from  (select * from bill where CAST(checkin as DATE) between @from and @to) as bill right join room on bill.room=room.room   group by room.room";
             Mydb.openConnection();
             DataTable data = new DataTable();
             try
             {
-                SqlCommand command = new SqlCommand(query, Mydb.getConnection);
+                SqlCommand command = new SqlCommand("room_revenue_details", Mydb.getConnection);
+                command.CommandType = CommandType.StoredProcedure;
+                command.Parameters.Clear();
                 SqlDataAdapter adapter = new SqlDataAdapter();
                 command.Parameters.Add("@from", SqlDbType.Date).Value = from;
                 command.Parameters.Add("@to", SqlDbType.Date).Value = to;
-                adapter.SelectCommand = command;
                 adapter.Fill(data);
                 return data;
             }
@@ -294,7 +278,6 @@ namespace Hotel
                 adapter.SelectCommand = command;
                
                 adapter.Fill(data);
-                Mydb.openConnection();
                 return data;
             }
             catch (Exception ex)
@@ -303,6 +286,106 @@ namespace Hotel
                 Mydb.closeConnection();
                 return data;
             }
+        }
+
+        public string highestRevenueRoom()
+        {
+            Mydb.openConnection();
+            try
+            {
+                string result = "";
+                SqlCommand cmd = new SqlCommand("highest_revenue_room", Mydb.getConnection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                SqlDataReader rdr = cmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                    result = rdr["result"].ToString();
+                }
+                rdr.Close();
+                Mydb.closeConnection();
+                return result;
+            } catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            Mydb.closeConnection();
+            return "";
+
+        }
+
+        public string lowestRevenueRoom()
+        {
+            Mydb.openConnection();
+            try
+            {
+                string result = "";
+                SqlCommand cmd = new SqlCommand("lowest_revenue_room", Mydb.getConnection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                SqlDataReader rdr = cmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                    result = rdr["result"].ToString();
+                }
+                rdr.Close();
+                Mydb.closeConnection();
+                return result;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            Mydb.closeConnection();
+            return "";
+        }
+
+        public string highestRevenueMonth()
+        {
+            Mydb.openConnection();
+            try
+            {
+                string result = "";
+                SqlCommand cmd = new SqlCommand("highest_revenue_month", Mydb.getConnection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                SqlDataReader rdr = cmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                    result = rdr["month"].ToString();
+                }
+                rdr.Close();
+                Mydb.closeConnection();
+                return result;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            Mydb.closeConnection();
+            return "";
+        }
+
+        public string lowestRevenueMonth()
+        {
+            Mydb.openConnection();
+            try
+            {
+                string result = "";
+                SqlCommand cmd = new SqlCommand("lowest_revenue_month", Mydb.getConnection);
+                cmd.CommandType = CommandType.StoredProcedure;
+                SqlDataReader rdr = cmd.ExecuteReader();
+                while (rdr.Read())
+                {
+                    result = rdr["month"].ToString();
+                }
+                rdr.Close();
+                Mydb.closeConnection();
+                return result;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            Mydb.closeConnection();
+            return "";
         }
     }
 }
