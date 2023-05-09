@@ -473,3 +473,5 @@ C:\Users\ADMIN\Code\DBMS-Hotel\Hotel\obj\Debug\Hotel.exe
 C:\Users\ADMIN\Code\DBMS-Hotel\Hotel\obj\Debug\Hotel.pdb
 C:\Users\ADMIN\Code\DBMS-Hotel\Hotel\obj\Debug\Hotel.RoomForm.StatusRoom.resources
 C:\Users\ADMIN\Code\DBMS-Hotel\Hotel\obj\Debug\Hotel.MainF.CheckCustomer.resources
+D:\SCHOOL\Junior\DBMS\Hotel-Management\Hotel\obj\Debug\Hotel.MainF.CheckCustomer.resources
+D:\SCHOOL\Junior\DBMS\Hotel-Management\Hotel\obj\Debug\Hotel.RoomForm.StatusRoom.resources

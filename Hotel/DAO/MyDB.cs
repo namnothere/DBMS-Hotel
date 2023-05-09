@@ -24,7 +24,7 @@ namespace Hotel
         { 
             if (GlobalVar._username != null)
             {
-                String connectionStr = @"Data Source=LAPTOP-SS4GOUD3;Initial Catalog=Hotel;Trusted_Connection=True;User Id=" + GlobalVar._username + ";Password=" + GlobalVar._password;
+                String connectionStr = @"Data Source=NEM\DBMS_FINAL;Initial Catalog=Hotel;Trusted_Connection=True;User Id=" + GlobalVar._username + ";Password=" + GlobalVar._password;
                 con = new SqlConnection(connectionStr);
             }
         }
@@ -34,7 +34,7 @@ namespace Hotel
             try
             {
                 con = new SqlConnection();
-                String connectionStr = @"Data Source=LAPTOP-SS4GOUD3;Initial Catalog=Hotel;Trusted_Connection=True;User Id=" + username + ";Password=" + password;
+                String connectionStr = @"Data Source=NEM\DBMS_FINAL;Initial Catalog=Hotel;Trusted_Connection=True;User Id=" + username + ";Password=" + password;
                 con = new SqlConnection(connectionStr);
                 GlobalVar._username = username;
                 GlobalVar._password = password;
