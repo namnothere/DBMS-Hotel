@@ -116,6 +116,29 @@ namespace Hotel
             Mydb.openConnection();
             try
             {
+                //CHECK IF CMND NUMBER EXIST
+                
+                try
+                {
+                   SqlCommand cmd = new SqlCommand("Check_Customer", Mydb.getConnection);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.Add("@cmnd", SqlDbType.Int).Value = cmnd;
+                    using (SqlDataReader rdr =  cmd.ExecuteReader())
+                    {
+                        bool isTableEmpty = !rdr.HasRows; //table empty means this is new customer
+                        if (!isTableEmpty)
+                        {
+                            MessageBox.Show("Customer already exists in database");
+                            return false;
+                        }
+                        MessageBox.Show("isTableEmpty");
+                    }
+
+                } catch (Exception ex)
+                {
+                    MessageBox.Show("AddCustomer: " + ex);
+                }
+
                 SqlCommand command = new SqlCommand(query, Mydb.getConnection);
                 command.Parameters.Add("@name", SqlDbType.NVarChar).Value = name;
                 command.Parameters.Add("@phone", SqlDbType.NVarChar).Value = phone;
