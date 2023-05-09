@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Hotel
 {
@@ -18,7 +19,15 @@ namespace Hotel
             }
         }
 
-        public MyDB() { }
+        
+        public MyDB()
+        { 
+            if (GlobalVar._username != null)
+            {
+                String connectionStr = @"Data Source=NEM\DBMS_FINAL;Initial Catalog=Hotel;Trusted_Connection=True;User Id=" + GlobalVar._username + ";Password=" + GlobalVar._password;
+                con = new SqlConnection(connectionStr);
+            }
+        }
 
         public MyDB(string username, string password)
         {
@@ -27,7 +36,9 @@ namespace Hotel
                 con = new SqlConnection();
                 String connectionStr = @"Data Source=NEM\DBMS_FINAL;Initial Catalog=Hotel;Trusted_Connection=True;User Id=" + username + ";Password=" + password;
                 con = new SqlConnection(connectionStr);
-                SqlCommand comm = con.CreateCommand();
+                GlobalVar._username = username;
+                GlobalVar._password = password;
+
             }
             catch (Exception ex)
             {
@@ -35,15 +46,6 @@ namespace Hotel
             }
 
 
-        }
-
-        public MyDB() { }
-
-        public MyDB(string username, string password)
-        {
-            String connectionStr = @"Data Source=NEM\DBMS_FINAL;Initial Catalog=Hotel;USER ID=" + username + ";Password="+password;
-            con = new SqlConnection(connectionStr);
-            SqlCommand comm = con.CreateCommand();
         }
 
         public void openConnection()

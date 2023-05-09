@@ -11,5 +11,7 @@ namespace Hotel
         static public int _GlobalType = 0;
         static public int _id = 2;
         static public int _idAssignment = 0;
+        internal static string _username;
+        internal static string _password;
     }
 }
