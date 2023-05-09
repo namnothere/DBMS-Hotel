@@ -13,17 +13,32 @@ namespace Hotel
     {
         MyDB Mydb = new MyDB();
 
+        //public DataTable LogIn(string username, string password)
+        //{
+        //    SqlCommand command = new SqlCommand("\tselect * from log_in inner join Employees on log_in.id=Employees.id where username= @username and password= @password", Mydb.getConnection);
+        //    command.Parameters.Add("@username", SqlDbType.NChar).Value = username;
+        //    command.Parameters.Add("@password", SqlDbType.NChar).Value = password;
+        //    Mydb.openConnection();
+        //    SqlDataAdapter adapter = new SqlDataAdapter(command);
+        //    DataTable table = new DataTable();
+        //    adapter.Fill(table);
+        //    Mydb.closeConnection();
+        //    return table;
+        //}
         public DataTable LogIn(string username, string password)
         {
-            SqlCommand command = new SqlCommand("\tselect * from log_in inner join Employees on log_in.id=Employees.id where username= @username and password= @password", Mydb.getConnection);
-            command.Parameters.Add("@username", SqlDbType.NChar).Value = username;
-            command.Parameters.Add("@password", SqlDbType.NChar).Value = password;
-            Mydb.openConnection();
-            SqlDataAdapter adapter = new SqlDataAdapter(command);
-            DataTable table = new DataTable();
-            adapter.Fill(table);
-            Mydb.closeConnection();
-            return table;
+            try
+            {
+                Mydb = new MyDB(username, password);
+                // get user using username
+                return new EMPLOYEES().getEmployeeByUsername(username);
+
+            } catch (Exception ex)
+            {
+                MessageBox.Show("Error while trying to login" +  ex.Message);
+            }
+            // return empty datatable
+            return new DataTable();
         }
 
         public DataTable GetIdAssignment(int idE)

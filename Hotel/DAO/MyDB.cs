@@ -7,7 +7,8 @@ namespace Hotel
 {
     class MyDB
     {
-        SqlConnection con = new SqlConnection(@"Data Source=LAPTOP-DD46R4UJ;Initial Catalog=Hotel;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+        //SqlConnection con = new SqlConnection(@"Data Source=NEM\DBMS_FINAL;Initial Catalog=Hotel;Integrated Security=True;Connect Timeout=30;Encrypt=False;");
+        SqlConnection con = new SqlConnection();
         //SqlConnection con = new SqlConnection(@"Data Source = (localdb)\MSSQLLocalDB;Initial Catalog = Hotel");
         public SqlConnection getConnection
         {
@@ -15,6 +16,15 @@ namespace Hotel
             {
                 return con;
             }
+        }
+
+        public MyDB() { }
+
+        public MyDB(string username, string password)
+        {
+            String connectionStr = @"Data Source=NEM\DBMS_FINAL;Initial Catalog=Hotel;USER ID=" + username + ";Password="+password;
+            con = new SqlConnection(connectionStr);
+            SqlCommand comm = con.CreateCommand();
         }
 
         public void openConnection()

@@ -122,6 +122,18 @@ namespace Hotel
             adapter.Fill(data);
             return data;
         }
+        
+        public DataTable getEmployeeByUsername(string username)
+        {
+            SqlCommand command = new SqlCommand("\tselect * from log_in inner join Employees on log_in.id=Employees.id where username= @username", Mydb.getConnection);
+            command.Parameters.Add("username", SqlDbType.VarChar).Value = username;
+            SqlDataAdapter adapter = new SqlDataAdapter();
+            DataTable data = new DataTable();
+            Mydb.openConnection();
+            adapter.SelectCommand = command;
+            adapter.Fill(data);
+            return data;
+        }
         public bool CMNDExist(string cmnd)
         {
             SqlCommand command = new SqlCommand("select * FROM employees WHERE cmnd=@ocmnd", Mydb.getConnection);
