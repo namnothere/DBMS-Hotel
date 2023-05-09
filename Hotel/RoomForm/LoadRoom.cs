@@ -40,7 +40,12 @@ namespace Hotel
             this.ContextMenuStrip = outRightClick();
             
         }
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            RoomForm.StatusRoom frm = new RoomForm.StatusRoom();
+            frm.Show();
+
+        }
         private Panel_Custom CreatePanel(DataRow dt)
         {
             Panel_Custom pnl_c = new Panel_Custom();
@@ -235,6 +240,10 @@ namespace Hotel
             //this.ContextMenuStrip = menuStrip;
             return menuStrip;
         }
+
+        
+
+
         void OutRightClick(object sender, EventArgs e)
         {
             //int rID = 0;

@@ -38,12 +38,13 @@ namespace Hotel
 
         public bool AddService(string name, string type, int price, string des,int count, MemoryStream image)
         {
-            string query = "insert into service(name,type,price,description,count,used,image) values(@name,@type," +
-                "@price,@description,@count,@used,@image)";
+            
             Mydb.openConnection();
             try
             {
-                SqlCommand command = new SqlCommand(query, Mydb.getConnection);
+                string message = null;
+                SqlCommand command = new SqlCommand("Create_service", Mydb.getConnection);
+                command.CommandType = CommandType.StoredProcedure;
                 command.Parameters.Add("@name", SqlDbType.NVarChar).Value = name;
                 command.Parameters.Add("@type", SqlDbType.NVarChar).Value = type;
                 command.Parameters.Add("@price", SqlDbType.Int).Value = price;
@@ -51,7 +52,17 @@ namespace Hotel
                 command.Parameters.Add("@count", SqlDbType.Int).Value = count;
                 command.Parameters.Add("@used", SqlDbType.Int).Value = 0;
                 command.Parameters.Add("@image", SqlDbType.Image).Value = image.ToArray();
-                if (command.ExecuteNonQuery() > 0)
+
+                SqlDataReader rdr = command.ExecuteReader();
+                while (rdr.Read())
+                {
+                    message = rdr["result"].ToString();
+                }
+
+                rdr.Close();
+
+
+                if (message!=null)
                 {
                     Mydb.closeConnection();
                     return true;

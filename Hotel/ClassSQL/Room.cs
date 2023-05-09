@@ -65,6 +65,7 @@ namespace Hotel
 
         public DataTable GetTypeAndStatusRoom(string room)
         {
+
             string query = "select S.status,name from Room inner join type_room on Room.type=type_room.type" +
                 " inner join status_room as S on Room.status=S.id where room=@room";
 
@@ -72,6 +73,8 @@ namespace Hotel
             DataTable data = new DataTable();
             try
             {
+
+
                 SqlCommand command = new SqlCommand(query, Mydb.getConnection);
                 command.Parameters.Add("@room", SqlDbType.NVarChar).Value = room;
                 SqlDataAdapter adapter = new SqlDataAdapter();

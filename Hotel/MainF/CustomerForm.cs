@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Hotel.DAO;
 using System.Windows.Forms;
+using Hotel.MainF;
 
 namespace Hotel
 {
@@ -23,6 +24,13 @@ namespace Hotel
         Room RoomSQL = new Room();
         BILL BillSQL = new BILL();
         private string roomChoose;
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MainF.CheckCustomer frm = new MainF.CheckCustomer();
+            frm.Show();
+
+        }
         private void LoadKhachHang()
         {
             int status = checkStatus();

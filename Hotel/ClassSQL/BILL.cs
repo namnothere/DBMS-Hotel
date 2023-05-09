@@ -150,14 +150,14 @@ namespace Hotel
             Mydb.openConnection();
             try
             {
-                SqlCommand command = new SqlCommand(query, Mydb.getConnection);
+                SqlCommand command = new SqlCommand("Insert_status_bill", Mydb.getConnection);
+                command.CommandType = CommandType.StoredProcedure;
                 command.Parameters.Add("@room", SqlDbType.VarChar).Value = room;
                 command.Parameters.Add("@checkin", SqlDbType.DateTime).Value = checkin;
                 command.Parameters.Add("@checkout", SqlDbType.DateTime).Value = checkout;
                 command.Parameters.Add("@status", SqlDbType.Int).Value = status;
                 command.Parameters.Add("@pay", SqlDbType.Int).Value = pay;
                 command.Parameters.Add("@status_pay", SqlDbType.Int).Value = status_pay;
-                command.Parameters.Add("@id_bill", SqlDbType.Int).Value = id;
                 if (command.ExecuteNonQuery() > 0)
                 {
                     Mydb.closeConnection();

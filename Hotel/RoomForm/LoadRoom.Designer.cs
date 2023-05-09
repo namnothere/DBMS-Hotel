@@ -32,10 +32,13 @@ namespace Hotel
             this.pnlStatus = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.flpPhong = new System.Windows.Forms.FlowLayoutPanel();
+            this.button1 = new System.Windows.Forms.Button();
+            this.pnlStatus.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlStatus
             // 
+            this.pnlStatus.Controls.Add(this.button1);
             this.pnlStatus.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlStatus.Location = new System.Drawing.Point(0, 0);
             this.pnlStatus.Name = "pnlStatus";
@@ -61,6 +64,16 @@ namespace Hotel
             this.flpPhong.Size = new System.Drawing.Size(1000, 387);
             this.flpPhong.TabIndex = 3;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(34, 12);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(197, 42);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Check Status";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // LoadRoom
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -73,6 +86,7 @@ namespace Hotel
             this.Name = "LoadRoom";
             this.Text = "Danh sách phòng";
             this.Load += new System.EventHandler(this.LoadRoom_Load);
+            this.pnlStatus.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -81,5 +95,6 @@ namespace Hotel
         private System.Windows.Forms.Panel pnlStatus;
         private System.Windows.Forms.Panel panel1;
         public System.Windows.Forms.FlowLayoutPanel flpPhong;
+        private System.Windows.Forms.Button button1;
     }
 }

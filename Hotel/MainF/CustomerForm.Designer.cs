@@ -32,6 +32,8 @@ namespace Hotel
             this.pnlHeader = new System.Windows.Forms.Panel();
             this.cbStatusCustomer = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.txtIDBillSearch = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.dgvKhachHang = new System.Windows.Forms.DataGridView();
             this.id_bill = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -42,6 +44,8 @@ namespace Hotel
             this.description = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.flpRoom = new System.Windows.Forms.FlowLayoutPanel();
             this.pnlInfoCustomer = new System.Windows.Forms.Panel();
+            this.txtIDBill = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.cbRoom = new System.Windows.Forms.ComboBox();
             this.cbOwn = new System.Windows.Forms.CheckBox();
             this.txtPhone = new System.Windows.Forms.TextBox();
@@ -50,17 +54,14 @@ namespace Hotel
             this.label5 = new System.Windows.Forms.Label();
             this.txtCMND = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.txtIDBillSearch = new System.Windows.Forms.TextBox();
             this.txtTenKhachHang = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.btnDelete = new System.Windows.Forms.Button();
             this.btnEditCustomer = new System.Windows.Forms.Button();
             this.btnAddCustomer = new System.Windows.Forms.Button();
-            this.btnDelete = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.btnSearch = new System.Windows.Forms.Button();
-            this.txtIDBill = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.pnlHeader.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvKhachHang)).BeginInit();
             this.pnlInfoCustomer.SuspendLayout();
@@ -69,6 +70,7 @@ namespace Hotel
             // pnlHeader
             // 
             this.pnlHeader.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(76)))), ((int)(((byte)(200)))), ((int)(((byte)(200)))));
+            this.pnlHeader.Controls.Add(this.button1);
             this.pnlHeader.Controls.Add(this.btnSearch);
             this.pnlHeader.Controls.Add(this.cbStatusCustomer);
             this.pnlHeader.Controls.Add(this.label1);
@@ -90,7 +92,7 @@ namespace Hotel
             "Đã trả phòng"});
             this.cbStatusCustomer.Location = new System.Drawing.Point(720, 42);
             this.cbStatusCustomer.Name = "cbStatusCustomer";
-            this.cbStatusCustomer.Size = new System.Drawing.Size(146, 28);
+            this.cbStatusCustomer.Size = new System.Drawing.Size(146, 33);
             this.cbStatusCustomer.TabIndex = 5;
             this.cbStatusCustomer.SelectedIndexChanged += new System.EventHandler(this.cbStatusCustomer_SelectedIndexChanged);
             // 
@@ -99,9 +101,25 @@ namespace Hotel
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(614, 45);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(80, 20);
+            this.label1.Size = new System.Drawing.Size(100, 25);
             this.label1.TabIndex = 4;
             this.label1.Text = "Trạng thái";
+            // 
+            // txtIDBillSearch
+            // 
+            this.txtIDBillSearch.Location = new System.Drawing.Point(249, 44);
+            this.txtIDBillSearch.Name = "txtIDBillSearch";
+            this.txtIDBillSearch.Size = new System.Drawing.Size(130, 30);
+            this.txtIDBillSearch.TabIndex = 32;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(141, 47);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(110, 25);
+            this.label6.TabIndex = 27;
+            this.label6.Text = "ID Hoá đơn";
             // 
             // panel1
             // 
@@ -227,12 +245,29 @@ namespace Hotel
             this.pnlInfoCustomer.Size = new System.Drawing.Size(332, 552);
             this.pnlInfoCustomer.TabIndex = 4;
             // 
+            // txtIDBill
+            // 
+            this.txtIDBill.Location = new System.Drawing.Point(153, 37);
+            this.txtIDBill.Name = "txtIDBill";
+            this.txtIDBill.ReadOnly = true;
+            this.txtIDBill.Size = new System.Drawing.Size(130, 30);
+            this.txtIDBill.TabIndex = 35;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(45, 40);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(110, 25);
+            this.label8.TabIndex = 34;
+            this.label8.Text = "ID Hoá đơn";
+            // 
             // cbRoom
             // 
             this.cbRoom.FormattingEnabled = true;
             this.cbRoom.Location = new System.Drawing.Point(153, 69);
             this.cbRoom.Name = "cbRoom";
-            this.cbRoom.Size = new System.Drawing.Size(130, 28);
+            this.cbRoom.Size = new System.Drawing.Size(130, 33);
             this.cbRoom.TabIndex = 35;
             // 
             // cbOwn
@@ -240,7 +275,7 @@ namespace Hotel
             this.cbOwn.AutoSize = true;
             this.cbOwn.Location = new System.Drawing.Point(85, 327);
             this.cbOwn.Name = "cbOwn";
-            this.cbOwn.Size = new System.Drawing.Size(145, 24);
+            this.cbOwn.Size = new System.Drawing.Size(177, 29);
             this.cbOwn.TabIndex = 34;
             this.cbOwn.Text = "Người đặt phòng";
             this.cbOwn.UseVisualStyleBackColor = true;
@@ -249,7 +284,7 @@ namespace Hotel
             // 
             this.txtPhone.Location = new System.Drawing.Point(153, 181);
             this.txtPhone.Name = "txtPhone";
-            this.txtPhone.Size = new System.Drawing.Size(130, 26);
+            this.txtPhone.Size = new System.Drawing.Size(130, 30);
             this.txtPhone.TabIndex = 29;
             // 
             // label4
@@ -257,7 +292,7 @@ namespace Hotel
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(34, 184);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(102, 20);
+            this.label4.Size = new System.Drawing.Size(126, 25);
             this.label4.TabIndex = 23;
             this.label4.Text = "Số điện thoại";
             // 
@@ -274,7 +309,7 @@ namespace Hotel
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(72, 219);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(64, 20);
+            this.label5.Size = new System.Drawing.Size(79, 25);
             this.label5.TabIndex = 24;
             this.label5.Text = "Ghi chú";
             // 
@@ -282,7 +317,7 @@ namespace Hotel
             // 
             this.txtCMND.Location = new System.Drawing.Point(153, 145);
             this.txtCMND.Name = "txtCMND";
-            this.txtCMND.Size = new System.Drawing.Size(130, 26);
+            this.txtCMND.Size = new System.Drawing.Size(130, 30);
             this.txtCMND.TabIndex = 31;
             // 
             // label3
@@ -290,39 +325,23 @@ namespace Hotel
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(80, 151);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(56, 20);
+            this.label3.Size = new System.Drawing.Size(72, 25);
             this.label3.TabIndex = 25;
             this.label3.Text = "CMND";
-            // 
-            // txtIDBillSearch
-            // 
-            this.txtIDBillSearch.Location = new System.Drawing.Point(249, 44);
-            this.txtIDBillSearch.Name = "txtIDBillSearch";
-            this.txtIDBillSearch.Size = new System.Drawing.Size(130, 26);
-            this.txtIDBillSearch.TabIndex = 32;
             // 
             // txtTenKhachHang
             // 
             this.txtTenKhachHang.Location = new System.Drawing.Point(153, 107);
             this.txtTenKhachHang.Name = "txtTenKhachHang";
-            this.txtTenKhachHang.Size = new System.Drawing.Size(130, 26);
+            this.txtTenKhachHang.Size = new System.Drawing.Size(130, 30);
             this.txtTenKhachHang.TabIndex = 33;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(141, 47);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(91, 20);
-            this.label6.TabIndex = 27;
-            this.label6.Text = "ID Hoá đơn";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(13, 110);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(123, 20);
+            this.label2.Size = new System.Drawing.Size(154, 25);
             this.label2.TabIndex = 26;
             this.label2.Text = "Tên khách hàng";
             // 
@@ -331,9 +350,22 @@ namespace Hotel
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(81, 75);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(55, 20);
+            this.label7.Size = new System.Drawing.Size(69, 25);
             this.label7.TabIndex = 28;
             this.label7.Text = "Phòng";
+            // 
+            // btnDelete
+            // 
+            this.btnDelete.BackColor = System.Drawing.Color.Crimson;
+            this.btnDelete.FlatAppearance.BorderSize = 0;
+            this.btnDelete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDelete.Location = new System.Drawing.Point(224, 384);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.Size = new System.Drawing.Size(96, 39);
+            this.btnDelete.TabIndex = 21;
+            this.btnDelete.Text = "Xoá";
+            this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnEditCustomer
             // 
@@ -361,18 +393,15 @@ namespace Hotel
             this.btnAddCustomer.UseVisualStyleBackColor = false;
             this.btnAddCustomer.Click += new System.EventHandler(this.btnAddCustomer_Click);
             // 
-            // btnDelete
+            // button1
             // 
-            this.btnDelete.BackColor = System.Drawing.Color.Crimson;
-            this.btnDelete.FlatAppearance.BorderSize = 0;
-            this.btnDelete.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDelete.Location = new System.Drawing.Point(224, 384);
-            this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(96, 39);
-            this.btnDelete.TabIndex = 21;
-            this.btnDelete.Text = "Xoá";
-            this.btnDelete.UseVisualStyleBackColor = false;
-            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            this.button1.Location = new System.Drawing.Point(945, 10);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(202, 59);
+            this.button1.TabIndex = 36;
+            this.button1.Text = "Check Customer";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnSearch
             // 
@@ -389,23 +418,6 @@ namespace Hotel
             this.btnSearch.TabIndex = 33;
             this.btnSearch.UseVisualStyleBackColor = false;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
-            // 
-            // txtIDBill
-            // 
-            this.txtIDBill.Location = new System.Drawing.Point(153, 37);
-            this.txtIDBill.Name = "txtIDBill";
-            this.txtIDBill.ReadOnly = true;
-            this.txtIDBill.Size = new System.Drawing.Size(130, 26);
-            this.txtIDBill.TabIndex = 35;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(45, 40);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(91, 20);
-            this.label8.TabIndex = 34;
-            this.label8.Text = "ID Hoá đơn";
             // 
             // CustomerForm
             // 
@@ -467,5 +479,6 @@ namespace Hotel
         private System.Windows.Forms.Button btnSearch;
         private System.Windows.Forms.TextBox txtIDBill;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Button button1;
     }
 }
